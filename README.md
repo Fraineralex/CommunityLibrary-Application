@@ -9,5 +9,6 @@ Community library that manages and administers books, publishers and authors reg
 - Bootstrap
 - sequelize
 - handlebars
-- nulter
+- multer
 - nodemailer
+- MVC
